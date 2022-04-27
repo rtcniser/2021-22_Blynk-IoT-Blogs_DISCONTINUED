@@ -2,7 +2,6 @@
 layout: home
 ---
 
-# What is Blynk IOT?
 
 &emsp; **Blynk** is a very popular IoT platform. It helps its users to easily connect their devices to the cloud. Thus they can be easily operated from anywhere on the Globe.
 
